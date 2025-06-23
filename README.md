@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @joeythecreator
-- 👀 I am Wordpress Developer who enjoys self-improvement and business venures.
-- 🌱 I am constantly striving to improve my skills such as speaking italian, coding python and app building.
-- 💞️ I’m looking to collaborate on wordpress development.
-- 📫 How to reach me [...](https://linktr.ee/josephlinktree)
-- ⚡ Fun fact: Im a NJ native who enjoys going on adventures, grwoing and helping others reach their goals!
+WordPress Developer | PHP, Java, SQL, Python, CSS, HTML | Flutter/Dart | Firebase | OOP, GUI & App Design | IT Tech | Skilled in Adobe & Media Tools | Sales Driven with a Creative Mind for Branding & Digital Marketing
 
 <!---
 joeythecreator/joeythecreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
